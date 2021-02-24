@@ -3,7 +3,7 @@
 ## I'm Sieg.
 
 - 👨‍💻 I’m currently working as a JavaScript Developer.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 📚 I specialize in both front-end and back-end web technologies. 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 ## 🛠 &nbsp;Tech Stack
