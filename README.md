@@ -1,10 +1,10 @@
 ## Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> :earth_asia:
 
-## I'm Sieg.
+## I'm Sieg
 
 - 👨‍💻 I’m currently working as a JavaScript Developer.
-- 📚 I specialize in both front-end and back-end web technologies. 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 🤖 I specialize in both front-end and back-end web technologies.
+- 👾 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 ## 🛠 &nbsp;Tech Stack
 
