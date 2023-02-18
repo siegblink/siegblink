@@ -6,4 +6,4 @@
 
 ✅ Most of the time, I'm interested on frontend frameworks like Next.js, Remix, and Svelte, building apps using Rust.
 
-✅ Sometimes, I also touch on Python, Data visualization, Machine learning, AI -- and I read a lot of tech blog posts, tech articles, and news several times a day.
+✅ I read a lot of blog posts, tech articles, and always finding interesting topics on Twitter several times a day.
