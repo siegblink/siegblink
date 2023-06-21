@@ -2,7 +2,9 @@
 
 ✅ I’m a JavaScript Developer. 
 
-✅ Nowadays, I'm working on Web3 projects, specifically, Dapp or DeFi web applications.
+✅ Nowadays, I'm working on Web3 projects, and projects that make use of AI technologies.
+
+✅ At present, I'm learning how to build AI-powered projects using the LangChain framework.
 
 ✅ Most of the time, I'm interested on frontend frameworks like Next.js, Remix, and Svelte, building apps using Rust.
 
