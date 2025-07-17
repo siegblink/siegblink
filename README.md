@@ -2,7 +2,7 @@
 
 ✅ I’m a JavaScript Developer. 
 
-✅ Nowadays, I'm working on Web3 projects, and projects that make use of AI technologies.
+✅ Nowadays, I'm working on my system architecture and full-stack development skills.
 
 ✅ At present, I'm learning how to build AI-powered projects using the LangChain framework.
 
