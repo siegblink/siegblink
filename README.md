@@ -1,14 +1,14 @@
 # Hello :earth_asia:, I'm Sieg 👨‍
 
-✅ I’m a JavaScript Developer. 
+👋 I’m a JavaScript developer with a passion for system architecture and full-stack development.
 
-✅ Nowadays, I'm working on my system architecture and full-stack development skills.
+🤖 Lately, I’ve been diving into AI-powered projects exploring APIs from OpenAI, Claude, and more.
 
-✅ At present, I'm learning how to build AI-powered projects using the LangChain framework.
+⚡ I love working with modern frontend frameworks like Next.js, Remix, and Svelte, and I’m always tinkering with building apps using Rust.
 
-✅ Most of the time, I'm interested on frontend frameworks like Next.js, Remix, and Svelte, building apps using Rust.
+📚 Most days, you’ll find me deep in blog posts, tech articles, or discovering new ideas on X (formerly Twitter).
 
-✅ I read a lot of blog posts, tech articles, and always finding interesting topics on X (formerly Twitter) several times a day.
+🌱 Always learning, always curious.
 
 [![X (formerly Twitter)](https://img.shields.io/badge/siegblink-blue?style=for-the-badge&logo=x)](https://twitter.com/siegblink1)
 [![Linkedin](https://img.shields.io/badge/siegblink-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siegblink)
