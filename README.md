@@ -1,17 +1,22 @@
-# Hello :earth_asia:, I'm Sieg 👨‍
+# Hello :earth_asia:, I'm Sieg 👨‍💻
 
-👋 I’m a JavaScript developer with a passion for system architecture and full-stack development.
+👋 I’m a **TypeScript** developer (with a solid JavaScript foundation) passionate about system architecture and full-stack development.
+
+🛠️ **My Daily Drivers**
+* **Runtime:** `bun` is my default, though I speak Node.js fluently.
+* **Editor:** I live in the terminal with **Neovim** (`nvim`).
+* **Shell:** `zsh`.
+
+⚡ I love working with modern frontend frameworks like **Next.js**, **Remix**, and **TanStack Router**.
+
+🚀 I'm expanding my backend arsenal by building apps with **Go** and **Python**.
 
 🤖 Lately, I’ve been diving into AI-powered projects exploring APIs from OpenAI, Claude, and more.
-
-⚡ I love working with modern frontend frameworks like Next.js, Remix, and Svelte, and I’m always tinkering with building apps using Rust.
-
-📚 Most days, you’ll find me deep in blog posts, tech articles, or discovering new ideas on X (formerly Twitter).
 
 🌱 Always learning, always curious.
 
 [![X (formerly Twitter)](https://img.shields.io/badge/siegblink-blue?style=for-the-badge&logo=x)](https://twitter.com/siegblink1)
-[![Linkedin](https://img.shields.io/badge/siegblink-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siegblink)
+[![Linkedin](https://img.shields.io/badge/siegblink-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siegblink)
 [![Facebook](https://img.shields.io/badge/siegblink-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/siegblink182/)
 
 [![HTML](https://img.shields.io/badge/html-grey?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -33,5 +38,6 @@
 [![Neovim](https://img.shields.io/badge/neovim-grey?style=for-the-badge&logo=neovim)](https://neovim.io/doc/)
 [![C](https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c)](https://www.learn-c.org/)
 [![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)](https://www.python.org/doc/)
-[![Rust](https://img.shields.io/badge/rust-grey?style=for-the-badge&logo=rust)](https://doc.rust-lang.org/book/)
+[![Go](https://img.shields.io/badge/go-grey?style=for-the-badge&logo=go)](https://go.dev/)
 [![Zig](https://img.shields.io/badge/zig-grey?style=for-the-badge&logo=zig)](https://ziglang.org/learn/)
+
