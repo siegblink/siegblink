@@ -7,11 +7,9 @@
 * **Editor:** I live in the terminal with **Neovim** (`nvim`).
 * **Shell:** `zsh`.
 
-⚡ I love working with modern frontend frameworks like **Next.js**, **Remix**, and **TanStack Router**.
+⚡ I love working with modern frontend frameworks like **Next.js**, **React Router v7** (formerly Remix), and **Astro**.
 
-🚀 I'm expanding my backend arsenal by building apps with **Go** and **Python**.
-
-🤖 Lately, I’ve been diving into AI-powered projects exploring APIs from OpenAI, Claude, and more.
+🤖 I integrate AI natively into my workflow, from rapid prototyping to production deploys, cutting days of work down to hours.
 
 🌱 Always learning, always curious.
 
