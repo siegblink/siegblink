@@ -1,17 +1,15 @@
-# Hello :earth_asia:, I'm Sieg 👨‍💻
+# Hi, I'm Sieg 👋
 
-👋 I’m a **TypeScript** developer (with a solid JavaScript foundation) passionate about system architecture and full-stack development.
+Software engineer based in Metro Cebu.
 
-🛠️ **My Daily Drivers**
-* **Runtime:** `bun` is my default, though I speak Node.js fluently.
-* **Editor:** I live in the terminal with **Neovim** (`nvim`).
-* **Shell:** `zsh`.
+I build for the web with **TypeScript** and **React**, and I like making complicated things feel simple, in code and on the page.
 
-⚡ I love working with modern frontend frameworks like **Next.js**, **React Router v7** (formerly Remix), and **Astro**.
+I learn by writing, so I keep a second brain at **[siegb.dev](https://siegb.dev)**, public notes on whatever I'm working out.
 
-🤖 I integrate AI natively into my workflow, from rapid prototyping to production deploys, cutting days of work down to hours.
-
-🌱 Always learning, always curious.
+- **Daily drivers:** `bun` · Neovim · `zsh`
+- **Building with:** Next.js · React Router · Astro · Cloudflare
+- **Currently into:** Relational Databases, Postgres, Docker, Linux
+- **Workflow:** AI-assisted, from prototype to deploy (no time-savings claims)
 
 [![X (formerly Twitter)](https://img.shields.io/badge/siegblink-blue?style=for-the-badge&logo=x)](https://twitter.com/siegblink1)
 [![Linkedin](https://img.shields.io/badge/siegblink-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siegblink)
@@ -25,7 +23,6 @@
 [![Astro](https://img.shields.io/badge/astro-grey?style=for-the-badge&logo=astro)](https://docs.astro.build/en/getting-started/)
 
 [![Node.js](https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=node.js)](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
-[![Deno](https://img.shields.io/badge/deno-grey?style=for-the-badge&logo=deno)](https://docs.deno.com/)
 [![Bun](https://img.shields.io/badge/bun-grey?style=for-the-badge&logo=bun)](https://bun.sh/docs)
 [![Linux](https://img.shields.io/badge/linux-grey?style=for-the-badge&logo=linux)](https://www.linux.org/)
 [![Docker](https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker)](https://docs.docker.com/)
@@ -37,5 +34,3 @@
 [![C](https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c)](https://www.learn-c.org/)
 [![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)](https://www.python.org/doc/)
 [![Go](https://img.shields.io/badge/go-grey?style=for-the-badge&logo=go)](https://go.dev/)
-[![Zig](https://img.shields.io/badge/zig-grey?style=for-the-badge&logo=zig)](https://ziglang.org/learn/)
-
