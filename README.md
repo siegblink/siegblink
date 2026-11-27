@@ -14,11 +14,10 @@ I learn by writing, so I keep a second brain at **[siegb.dev](https://siegb.dev)
 ## Projects
 
 - **[interior-designer-ai](https://github.com/siegblink/interior-designer-ai):** upload a photo of a room and get a redesign back in seconds. [Try it live](https://interior-designer-ai.vercel.app/).
-- **[nvim](https://github.com/siegblink/nvim):** my Neovim configuration, built on LazyVim.
 - **[minimal-vim](https://github.com/siegblink/minimal-vim):** a LazyVim configuration with minimal settings.
 
 [![X](https://img.shields.io/badge/siegblink-blue?style=for-the-badge&logo=x)](https://x.com/siegblink1)
-[![LinkedIn](https://img.shields.io/badge/linkedin-siegblink-blue?style=for-the-badge)](https://www.linkedin.com/in/siegblink)
+[![LinkedIn](https://img.shields.io/badge/siegblink-blue?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/siegblink)
 [![Facebook](https://img.shields.io/badge/siegblink-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/siegblink182/)
 
 [![HTML](https://img.shields.io/badge/html-grey?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
