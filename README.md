@@ -9,7 +9,7 @@ I learn by writing, so I keep a second brain at **[siegb.dev](https://siegb.dev)
 - **Daily drivers:** `bun` · Neovim · `zsh`
 - **Building with:** Next.js · React Router · Astro · Cloudflare
 - **Currently into:** Relational Databases, Postgres, Docker, Linux
-- **Workflow:** AI-assisted, from prototype to deploy (no time-savings claims)
+- **Workflow:** AI-assisted, from prototype to deploy
 
 ## Projects
 
